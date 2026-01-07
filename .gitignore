@@ -1,0 +1,15 @@
+# --- RAHASIA (JANGAN DIHAPUS DARI LIST INI) ---
+.env
+cookies.txt
+fb_cookies.json
+client_secrets.json
+token.pickle
+
+# --- SAMPAH SYSTEM ---
+__pycache__/
+*.pyc
+
+# --- FILE SEMENTARA/HASIL ---
+bahan_video/
+*.mp4
+*.mp3
